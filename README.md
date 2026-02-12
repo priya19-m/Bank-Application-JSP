@@ -1,0 +1,87 @@
+## Bank Account Management System
+## Project Overview:
+   The Bank Account Management System is a Java-based web application developed using JSP, Servlets, JDBC, and Object-Oriented Programming (OOP) concepts.
+   This system helps manage bank operations such as adding new account records, viewing individual account details, and viewing all account records stored in the database.
+   The project follows a layered architecture using Bean, DAO, Service, Servlet, and Utility layers, ensuring proper separation of concerns, modular design, and easy maintenance.
+   
+## Objectives:
+   The system is designed to:
+     1. Add new bank account records
+     2. Generate unique Record ID using Oracle Sequence
+     3. View specific account details
+     4. View all account records
+     5. Validate user input before storing data
+     6. Prevent duplicate records
+     7. Perform database operations using JDBC
+     8. Handle user requests using Servlets
+     9. Provide simple HTML-based user interfaces
+    10. Apply DAO pattern and Service layer architecture
+
+## Technologies Used:
+Programming Language: Java
+Web Technologies: JSP, HTML, Servlets
+Database: Oracle Database
+Connectivity: JDBC
+IDE: Eclipse IDE
+Server: Apache Tomcat
+Version Control: Git & GitHub
+
+## Project Structure:
+BankApplication
+├── src/main/java
+│   └── com.wipro.bank
+│       ├── bean
+│       │   └── BankBean.java
+│       ├── dao
+│       │   └── BankDAO.java
+│       ├── service
+│       │   └── Administrator.java
+│       ├── servlets
+│       │   └── MainServlet.java
+│       └── util
+│           ├── DBUtil.java
+│           └── InvalidInputException.java
+├── src/main/webapp
+│   ├── META-INF
+│   ├── WEB-INF
+│   ├── AddAccount.html
+│   ├── ViewAccount.html
+│   ├── Menu.html
+│   ├── success.html
+│   └── error.html
+└── build
+
+## How to Run in Eclipse IDE:
+Step 1: Install Required Software
+Eclipse IDE
+Apache Tomcat Server (v9.0 or above)
+Oracle Database
+Oracle JDBC Driver (ojdbc8.jar / ojdbc11.jar / ojdbc17.jar)
+
+Step 2: Import Project
+Open Eclipse
+Go to File → Import
+Select Existing Dynamic Web Project
+Select the BankApplication folder
+Click Finish
+
+Step 3: Configure Tomcat Server
+Go to Servers tab
+Add Apache Tomcat
+Configure server runtime environment
+
+Step 4: Add JDBC Driver
+Right-click project
+Build Path → Add External Archives
+Select ojdbc jar file
+
+Step 5: Run the Project
+Right-click project
+Run As → Run on Server
+Choose Tomcat Server
+
+## Database Details:
+Tables Used:
+  BANKACCOUNT_TB – Stores account details
+  <img width="954" height="317" alt="Screenshot 2026-02-12 231121" src="https://github.com/user-attachments/assets/32d4eb91-969c-4c27-8b6f-2a666167162b" />
+  
