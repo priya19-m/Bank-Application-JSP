@@ -82,10 +82,10 @@ Choose Tomcat Server
 
 ## Database Details:
 Tables Used:
-  BANKACCOUNT_TB – Stores account details
+  1. BANKACCOUNT_TB – Stores account details
   <img width="954" height="317" alt="Screenshot 2026-02-12 231121" src="https://github.com/user-attachments/assets/32d4eb91-969c-4c27-8b6f-2a666167162b" />
 
-  BANKACCOUNT_SEQ
+  2. BANKACCOUNT_SEQ
   <img width="511" height="179" alt="Screenshot 2026-02-12 231139" src="https://github.com/user-attachments/assets/8072a078-f7ee-4ac2-8cb1-90d18f45b32e" />
 
 ## OUTPUT:
