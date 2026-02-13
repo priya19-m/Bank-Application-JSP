@@ -27,6 +27,7 @@ Server: Apache Tomcat
 Version Control: Git & GitHub
 
 ## Project Structure:
+``` plaintext
 BankApplication
 ├── src/main/java
 │   └── com.wipro.bank
@@ -50,6 +51,7 @@ BankApplication
 │   ├── success.html
 │   └── error.html
 └── build
+```
 
 ## How to Run in Eclipse IDE:
 Step 1: Install Required Software
