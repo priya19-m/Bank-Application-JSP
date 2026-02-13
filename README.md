@@ -84,4 +84,24 @@ Choose Tomcat Server
 Tables Used:
   BANKACCOUNT_TB – Stores account details
   <img width="954" height="317" alt="Screenshot 2026-02-12 231121" src="https://github.com/user-attachments/assets/32d4eb91-969c-4c27-8b6f-2a666167162b" />
+
+  BANKACCOUNT_SEQ
+  <img width="511" height="179" alt="Screenshot 2026-02-12 231139" src="https://github.com/user-attachments/assets/8072a078-f7ee-4ac2-8cb1-90d18f45b32e" />
+
+## OUTPUT:
+<img width="1919" height="612" alt="Screenshot 2026-02-12 220823" src="https://github.com/user-attachments/assets/24276518-37e2-4e9b-ba89-041aef0f202e" />
+<img width="1915" height="638" alt="Screenshot 2026-02-12 220812" src="https://github.com/user-attachments/assets/e3b1fcaf-c94e-487f-88d6-c358037163b2" />
+<img width="1919" height="633" alt="Screenshot 2026-02-12 221012" src="https://github.com/user-attachments/assets/535df6df-eba8-47ad-aa34-492435063102" />
+<img width="1919" height="624" alt="Screenshot 2026-02-12 230821" src="https://github.com/user-attachments/assets/d1ae4590-e472-40c0-9c4f-f32c8987cf1b" />
+<img width="1919" height="977" alt="Screenshot 2026-02-12 231057" src="https://github.com/user-attachments/assets/7192e26e-09c2-4aea-9bf0-6affd73313e2" />
+<img width="1914" height="660" alt="Screenshot 2026-02-13 100451" src="https://github.com/user-attachments/assets/25f793c1-6ae2-463d-bbbe-b216036d4c2b" />
+<img width="1641" height="409" alt="Screenshot 2026-02-13 100507" src="https://github.com/user-attachments/assets/b06b8a9d-47b1-4a77-b4a3-8c3b6b75cfb4" />
+
+## Student Details:
+NAME: PRIYADHARSHINI M  
+ROLL NO: 717823P141
+
+
+
+
   
